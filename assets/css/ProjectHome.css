@@ -4,6 +4,6 @@
 
 .sqr{
     object-fit: cover;
-    max-width: 100%;
-    max-height: max-content;
+    max-width: 400px;
+    max-height: 400px;
 }
