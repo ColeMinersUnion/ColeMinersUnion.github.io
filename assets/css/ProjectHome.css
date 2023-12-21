@@ -3,8 +3,7 @@
 }
 
 .sqr{
-    object-fit: contain;
+    object-fit: cover;
     max-width: 100%;
-    max-height: fit-content;
     /*Trying to use white space?*/
 }
