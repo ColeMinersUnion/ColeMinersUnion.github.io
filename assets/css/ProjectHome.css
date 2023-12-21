@@ -3,7 +3,5 @@
 }
 
 .sqr{
-    object-fit: cover;
-    max-width: 400px;
-    max-height: 400px;
+    aspect-ratio: 1 / 1;
 }
