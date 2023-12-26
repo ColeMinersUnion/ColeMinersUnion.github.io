@@ -5,3 +5,20 @@ h1{
 p{
     color: gray;
 }
+
+.navbar-dark{
+    background-color: darkslategray;
+}
+
+.BannerImg{
+    width: 50%;
+    height: auto;
+}
+
+body{
+    height: 100%;
+    margin: 0;
+    background-image: linear-gradient(180deg, darkslategray, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
