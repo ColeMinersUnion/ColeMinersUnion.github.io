@@ -1,5 +1,6 @@
 .MySpace{
     padding: 10px 0px;
+    
 }
 
 .sqr{
@@ -7,4 +8,9 @@
     height: 200px;
     object-fit: cover;
     /*Trying to use white space?*/
+}
+
+.Cardstock{
+    width: 100%;
+    height: fit-content;
 }
