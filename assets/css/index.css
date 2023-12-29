@@ -2,8 +2,15 @@
     margin: 2%;
 }
 
+.typography{
+    position: relative;
+    padding: 5%;
+    font-size: 144px;
+}
+
 h5{
     display: inline;
+    font-size: 36px;
 }
 
 a{
