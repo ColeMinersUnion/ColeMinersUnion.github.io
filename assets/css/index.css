@@ -50,7 +50,7 @@ a{
 #TallBox{
     background-color: var(--red);
     color: var(--wht);
-    padding: 4% 1%;
+    padding: 4.8% 1%;
 }
 
 #sqr{
@@ -71,7 +71,7 @@ a{
 #ideaBox{
     background-color: var(--red);
     color: var(--wht);
-    padding: 7% 5%;
+    padding: 10.4% 5%;
 }
 
 #ideaPic{
