@@ -1,3 +1,16 @@
+:root{
+    --blk: #0A0908;
+    --wht: #F7F3E3;
+    --red: #BA1200;
+    --blu: #006992;
+    --grn: #14591D;
+}
+
+body{
+    background-color: var(--blk) !important;
+    background-image: none !important;
+}
+
 .PageContent{
     margin: 2%;
 }
@@ -9,6 +22,7 @@
 }
 
 h5{
+    color: var(--wht);
     display: inline;
     font-size: 36px;
 }
@@ -19,4 +33,47 @@ a{
 
 .myList{
     padding: 0.5%;
+}
+
+.bento{
+    border: 5px solid black;
+    border-radius: 24px;
+    margin: 0%;
+}
+
+/*IDs of specific Bento Boxes*/
+#TitleBox{
+    background-color: var(--blu);
+    color: var(--wht);
+}
+
+#TallBox{
+    background-color: var(--red);
+    color: var(--wht);
+    padding: 4% 1%;
+}
+
+#sqr{
+    background-color: var(--blu);
+    color: var(--wht);
+}
+
+#sqrSecond{
+    background-color: var(--grn);
+    color: var(--wht);
+}
+
+#HorzBox{
+    background-color: var(--grn);
+    color: var(--wht);
+}
+
+#ideaBox{
+    background-color: var(--red);
+    color: var(--wht);
+    padding: 7% 5%;
+}
+
+#ideaPic{
+    background-color: var(--blu);
 }

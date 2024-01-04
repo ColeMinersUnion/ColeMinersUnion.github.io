@@ -1,6 +1,5 @@
 h1{
     color: red;
-    
 }
 
 .griddable{
@@ -13,7 +12,8 @@ p{
 }
 
 .navbar-dark{
-    background-color: darkslategray;
+    background-color: black;
+    box-shadow: gray;
 }
 
 .BannerImg{
