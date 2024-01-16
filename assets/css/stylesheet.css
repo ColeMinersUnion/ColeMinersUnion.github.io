@@ -24,9 +24,8 @@ p{
 body{
     height: 100%;
     margin: 0;
-    background-image: linear-gradient(180deg, darkslategray, white);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-color: var(--blk) !important;
+    background-image: none !important;
 }
 
 h5{

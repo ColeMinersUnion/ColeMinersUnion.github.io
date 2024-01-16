@@ -1,3 +1,21 @@
+:root{
+    --blk: #0A0908;
+    --wht: #F7F3E3;
+    --red: #BA1200;
+    --blu: #006992;
+    --grn: #14591D;
+}
+
+#NBAmail{
+    background-color: var(--red);
+}
+#Sud{
+    background-color: var(--grn);
+}
+#Mac{
+    background-color: var(--blu);
+}
+
 .MySpace{
     padding: 10px 0px;
     
@@ -8,6 +26,14 @@
     height: 200px;
     object-fit: cover;
     /*Trying to use white space?*/
+}
+
+.card-title{
+    color: var(--wht);
+}
+
+.card-text{
+    color: var(--wht);
 }
 
 .Cardstock{
